@@ -6,3 +6,4 @@ Reactive Programming: [The introduction to Reactive Programming you've been miss
 JSON-RPC: [JSON-RPC 2.0 Specification](http://www.jsonrpc.org/specification)  
 CompletionStage/CompletableFuture: [The Future is Completable in Java 8](http://www.jesperdj.com/2015/09/26/the-future-is-completable-in-java-8/)  
 Flexbox: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+Webpack: [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/)
