@@ -8,3 +8,4 @@ CompletionStage/CompletableFuture: [The Future is Completable in Java 8](http://
 Flexbox: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 Webpack: [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/)  
 Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
+Annotation Processor: [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)  
