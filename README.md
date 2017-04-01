@@ -9,4 +9,5 @@ Flexbox: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-gui
 Webpack: [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/)  
 Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
 Annotation Processor: [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)  
-Tree-shaking: [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)
+Tree-shaking: [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)  
+HTML5 semantics: [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)  
