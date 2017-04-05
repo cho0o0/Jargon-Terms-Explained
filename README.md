@@ -11,3 +11,4 @@ Microservices: [Microservices](http://martinfowler.com/articles/microservices.ht
 Annotation Processor: [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)  
 Tree-shaking: [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)  
 HTML5 semantics: [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)  
+Dependency Injection in Angular: [How does the TypeScript Angular DI magic work?](http://nicholasjohnson.com/blog/how-angular2-di-works-with-typescript/)  
