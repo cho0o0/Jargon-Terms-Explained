@@ -10,5 +10,6 @@ Webpack: [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags
 Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
 Annotation Processor: [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)  
 Tree-shaking: [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)  
-HTML5 semantics: [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)  
+HTML5 Semantics: [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)  
 Dependency Injection in Angular: [How does the TypeScript Angular DI magic work?](http://nicholasjohnson.com/blog/how-angular2-di-works-with-typescript/)  
+JavaScript Test Frameworks: [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)  
