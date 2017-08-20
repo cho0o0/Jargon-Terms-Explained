@@ -13,3 +13,4 @@ Tree-shaking: [Tree-shaking versus dead code elimination](https://medium.com/@Ri
 HTML5 Semantics: [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)  
 Dependency Injection in Angular: [How does the TypeScript Angular DI magic work?](http://nicholasjohnson.com/blog/how-angular2-di-works-with-typescript/)  
 JavaScript Test Frameworks: [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)  
+Ramda(Functional Programming JavaScript Library): [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)  
