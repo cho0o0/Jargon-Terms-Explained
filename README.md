@@ -5,6 +5,7 @@
 - Reactive Programming: [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  
 - Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
 - JSON-RPC: [JSON-RPC 2.0 Specification](http://www.jsonrpc.org/specification)  
+- Monad: [Functional Computational Thinking — What is a monad?](https://hackernoon.com/functional-computational-thinking-what-is-a-monad-2adea91154e)  
 
 ## Natural Language Processing  
 - Word Embedding: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
