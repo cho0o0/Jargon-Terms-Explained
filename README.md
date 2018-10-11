@@ -6,6 +6,7 @@
 - Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
 - JSON-RPC: [JSON-RPC 2.0 Specification](http://www.jsonrpc.org/specification)  
 - Monad: [Functional Computational Thinking — What is a monad?](https://hackernoon.com/functional-computational-thinking-what-is-a-monad-2adea91154e)  
+- Algebraic blindness: [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md)  
 
 ## Natural Language Processing  
 - Word Embedding: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
