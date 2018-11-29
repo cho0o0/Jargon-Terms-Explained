@@ -26,3 +26,4 @@
 - Ramda(Functional Programming JavaScript Library): [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)  
 - ES2016/2017: [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html)  
 - Transducer: [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)  
+- Normalization: [Frontend Normalization](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)  
