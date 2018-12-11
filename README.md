@@ -29,3 +29,4 @@
 - ES2016/2017: [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html)  
 - Transducer: [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)  
 - Normalization: [Frontend Normalization](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)  
+- Presentational / Container Components: [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
