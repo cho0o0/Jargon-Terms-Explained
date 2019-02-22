@@ -9,6 +9,7 @@
 - Algebraic blindness: [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md)  
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
 ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)  
+- Bloom Filters: [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)  
 
 ## Natural Language Processing  
 - Word Embedding: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
