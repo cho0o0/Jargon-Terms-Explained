@@ -11,6 +11,9 @@
 ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)  
 - Bloom Filters: [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)  
 
+## Network
+- TCP hole punching: [What is TCP hole punching?](http://www.acooke.org/cute/WhatisTCPh1.html)  
+
 ## Natural Language Processing  
 - Word Embedding: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 - LSTM: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
