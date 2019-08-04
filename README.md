@@ -10,7 +10,9 @@
 - Algebraic blindness: [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md)
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
   ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)
-- Bloom Filters: [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
+- Bloom Filters: [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)  
+- Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)  
+- Chaos Engineering: [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)  
 
 ## Network
 
