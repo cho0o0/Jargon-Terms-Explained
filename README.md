@@ -26,7 +26,12 @@
 ## Java
 
 - Annotation Processor: [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)
-- CompletionStage/CompletableFuture: [The Future is Completable in Java 8](http://www.jesperdj.com/2015/09/26/the-future-is-completable-in-java-8/)
+- CompletionStage/CompletableFuture: [The Future is Completable in Java 8](http://www.jesperdj.com/2015/09/26/the-future-is-completable-in-java-8/)  
+
+## Kotlin
+
+- Reified Generics: [Kotlin Reified Generics: Explained](https://dev.to/cjbrooks12/kotlin-reified-generics-explained-3mie)  
+- Scoping functions: [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)  
 
 ## Frontend Development
 
