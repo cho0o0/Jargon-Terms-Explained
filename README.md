@@ -62,3 +62,8 @@
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
   ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)
 - Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)  
+
+## Software Development Principles
+- Agile Software Development Life Cycle: [What is the Agile SDLC?](https://www.synopsys.com/software-integrity/resources/knowledge-database/agile-sdlc.html)
+- The Scrum Methodology: [What is Scrum?](https://resources.collab.net/agile-101/what-is-scrum)
+- Lean Methodology: [Lean Methodology](https://leankit.com/learn/lean/lean-methodology/)
