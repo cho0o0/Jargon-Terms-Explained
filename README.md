@@ -61,4 +61,6 @@
 - JSON-RPC: [JSON-RPC 2.0 Specification](http://www.jsonrpc.org/specification)
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
   ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)
-- Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)  
+- Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
+- Scrum: [Srum explained](https://www.scrum.org/resources/what-is-scrum)
+- Software Re-engineering: [Software Re-engineering explained](https://fullscale.io/what-is-software-reengineering/)
