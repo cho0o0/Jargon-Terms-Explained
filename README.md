@@ -16,8 +16,10 @@
 - ES2016/2017: [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html)
 - Transducer: [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
 - Normalization: [Frontend Normalization](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
-- Presentational / Container Components: [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) 
-- Promise Combinator: [Promise Combinators Explained](https://pawelgrzybek.com/promise-combinators-explained/) 
+- Presentational / Container Components: [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- Promise Combinator: [Promise Combinators Explained](https://pawelgrzybek.com/promise-combinators-explained/)
+- Git: [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
+- CSS Grid: [Learn CSS Grid](https://learncssgrid.com/)
 
 ## Functional Programming
 
@@ -38,7 +40,7 @@
 ## Microservices
 
 - Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
-- Chaos Engineering: [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/) 
+- Chaos Engineering: [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)
 
 ## Natural Language Processing
 
