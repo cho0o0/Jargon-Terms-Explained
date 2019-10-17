@@ -18,6 +18,8 @@
 - Normalization: [Frontend Normalization](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
 - Presentational / Container Components: [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) 
 - Promise Combinator: [Promise Combinators Explained](https://pawelgrzybek.com/promise-combinators-explained/) 
+- Animate.CSS: [Animations you can use with CSS](https://www.codefellows.org/blog/useful-links-for-front-end-web-development/)
+- Responsive Data Tables: [Responsive Tables] (https://css-tricks.com/responsive-data-tables/)
 
 ## Functional Programming
 
