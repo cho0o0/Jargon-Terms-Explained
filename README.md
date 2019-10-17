@@ -61,4 +61,9 @@
 - JSON-RPC: [JSON-RPC 2.0 Specification](http://www.jsonrpc.org/specification)
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
   ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)
-- Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)  
+- Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7) 
+
+## Internet Of Things (IOT)
+The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction
+(https://internetofthingsagenda.techtarget.com/definition/Internet-of-Things-IoT)
+(https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/)
