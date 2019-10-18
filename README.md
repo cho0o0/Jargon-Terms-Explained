@@ -62,3 +62,8 @@
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
   ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)
 - Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)  
+
+## Bug Bounty
+
+- Bug Bounty: [Getting started in Bug Bounty](https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a)
+
