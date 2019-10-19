@@ -35,6 +35,10 @@
 - Reified Generics: [Kotlin Reified Generics: Explained](https://dev.to/cjbrooks12/kotlin-reified-generics-explained-3mie)  
 - Scoping functions: [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)  
 
+## Python
+
+- Github Reference: [Learn Python from Beginner to Advance](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/Python/Python.md)
+
 ## Microservices
 
 - Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
