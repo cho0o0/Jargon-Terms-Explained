@@ -18,6 +18,7 @@
 - Normalization: [Frontend Normalization](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
 - Presentational / Container Components: [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) 
 - Promise Combinator: [Promise Combinators Explained](https://pawelgrzybek.com/promise-combinators-explained/) 
+- Stateful / Stateless : [Defining Stateful vs Stateless Web Services](https://nordicapis.com/defining-stateful-vs-stateless-web-services/)
 - Progressive Web Apps: [Seriously, though. What is a progressive web app?](https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093)
 
 ## Functional Programming
@@ -63,3 +64,5 @@
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
   ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)
 - Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)  
+
+
