@@ -37,7 +37,7 @@
 - Reified Generics: [Kotlin Reified Generics: Explained](https://dev.to/cjbrooks12/kotlin-reified-generics-explained-3mie)  
 - Scoping functions: [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)  
 
-##Python
+## Python
 
 - Data Structures and Algoritms :[DATA STRUCTURES AND ALGORITHMS THROUGH PYTHON IN DEPTH](https://bit.ly/2pbN2G3)
 
