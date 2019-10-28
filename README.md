@@ -42,6 +42,10 @@
 - Microservices: [Microservices](http://martinfowler.com/articles/microservices.html)  
 - Chaos Engineering: [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/) 
 
+## Computer Vision
+- CNN: [Understanding CNN](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
+- YOLO: [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+
 ## Natural Language Processing
 
 - Word Embedding: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
