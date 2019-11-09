@@ -29,7 +29,8 @@
 ## Java
 
 - Annotation Processor: [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)
-- CompletionStage/CompletableFuture: [The Future is Completable in Java 8](http://www.jesperdj.com/2015/09/26/the-future-is-completable-in-java-8/)  
+- CompletionStage/CompletableFuture: [The Future is Completable in Java 8](http://www.jesperdj.com/2015/09/26/the-future-is-completable-in-java-8/) 
+- Java OOP Concepts: [Object Oriented Programming - Java OOP Concepts With Examples](https://www.edureka.co/blog/object-oriented-programming/)
 - Teeing Collector: [Teeing Collector in Java 12](https://blog.codefx.org/java/teeing-collector/)  
 
 ## Kotlin
