@@ -46,6 +46,7 @@
 
 - Word Embedding: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - LSTM: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- Transformer: [Illustrated-transformer](http://jalammar.github.io/illustrated-transformer/)
 
 ## Network
 
