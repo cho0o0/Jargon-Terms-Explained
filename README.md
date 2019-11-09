@@ -20,6 +20,8 @@
 - Promise Combinator: [Promise Combinators Explained](https://pawelgrzybek.com/promise-combinators-explained/) 
 - Stateful / Stateless : [Defining Stateful vs Stateless Web Services](https://nordicapis.com/defining-stateful-vs-stateless-web-services/)
 - Progressive Web Apps: [Seriously, though. What is a progressive web app?](https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093)
+- Service Worker: [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
+- Web Worker: [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
 
 ## Functional Programming
 
