@@ -46,7 +46,8 @@
 
 - Word Embedding: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - LSTM: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- Transformer: [Illustrated-transformer](http://jalammar.github.io/illustrated-transformer/)
+- Attention: [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- Transformer: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 ## Network
 
