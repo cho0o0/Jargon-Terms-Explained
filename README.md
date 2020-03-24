@@ -63,7 +63,8 @@
 
 ## Security
 
-- Serialization gadgets vulnerability: [On Jackson CVEs: Don’t Panic — Here is what you need to know](https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062)
+- Serialization gadgets vulnerability: [On Jackson CVEs: Don’t Panic — Here is what you need to know](https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062)  
+- PASETO: [A Thorough Introduction to PASETO](https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto)  
 
 ## Software Engineering
 
