@@ -19,7 +19,8 @@
 - Presentational / Container Components: [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) 
 - Promise Combinator: [Promise Combinators Explained](https://pawelgrzybek.com/promise-combinators-explained/) 
 - Stateful / Stateless : [Defining Stateful vs Stateless Web Services](https://nordicapis.com/defining-stateful-vs-stateless-web-services/)
-- Progressive Web Apps: [Seriously, though. What is a progressive web app?](https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093)
+- Progressive Web Apps: [Seriously, though. What is a progressive web app?](https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093)  
+- Hot Module Replacement: [What exactly is Hot Module Replacement in Webpack?](https://stackoverflow.com/a/24587740/6279569)  
 
 ## Functional Programming
 
