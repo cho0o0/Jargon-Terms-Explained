@@ -75,6 +75,7 @@
 - Covariance/Contravariance/Bivariance/Invariance: [Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained
   ](https://medium.com/@thejameskyle/type-systems-covariance-contravariance-bivariance-and-invariance-explained-35f43d1110f8)
 - Backpressure: [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)  
-- Dark launch: [What is a dark launch in terms of continuous delivery of software?](https://www.quora.com/What-is-a-dark-launch-in-terms-of-continuous-delivery-of-software/answer/Justin-Baker-70)
+- Dark launch: [What is a dark launch in terms of continuous delivery of software?](https://www.quora.com/What-is-a-dark-launch-in-terms-of-continuous-delivery-of-software/answer/Justin-Baker-70)  
+- Ledger Database: [What is a ledger database?](https://ivan.mw/2019-11-24/what-is-a-ledger-database)  
 
 
