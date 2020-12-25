@@ -3,6 +3,7 @@
 ## Algorithm
 
 - Bloom Filters: [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)  
+- Red Black Tree: [Red-Black Trees](http://pages.cs.wisc.edu/~skrentny/cs367-common/readings/Red-Black-Trees/)
 
 ## Frontend Development
 
